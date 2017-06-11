@@ -1,0 +1,5 @@
+#!/bin/sh
+#exit on error
+set -e
+
+irb -r ./lib/ax1_utils.rb
